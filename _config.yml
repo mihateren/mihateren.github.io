@@ -4,12 +4,11 @@ description: "Методичка по Java, PostgreSQL, Spring и другим �
 remote_theme: just-the-docs/just-the-docs
 
 baseurl: ""
-url: "https://<ваш_логин>.github.io"
+url: "https://mihateren.github.io"
 
 nav:
   - Home: index.md
   - Java Core: java-core.md
-
 
 just_the_docs:
   search_enabled: true
