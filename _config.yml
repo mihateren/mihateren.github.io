@@ -1,0 +1,16 @@
+title: "База знаний"
+description: "Методичка по Java, PostgreSQL, Spring и другим технологиям backend-разработки"
+
+remote_theme: just-the-docs/just-the-docs
+
+baseurl: ""
+url: "https://<ваш_логин>.github.io"
+
+nav:
+  - Home: index.md
+  - Java Core: java-core.md
+
+
+just_the_docs:
+  search_enabled: true
+  edit_url: "https://github.com/mihateren/mihateren.github.io/edit/main/:path"
