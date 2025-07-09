@@ -12,4 +12,5 @@ nav:
 
 just_the_docs:
   search_enabled: true
+  favicon: "./favicon.ico"
   edit_url: "https://github.com/mihateren/mihateren.github.io/edit/main/:path"
