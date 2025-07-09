@@ -152,7 +152,7 @@ System.out.println("Hello, World!");
 
 Да, в Python или JavaScript короче — print("…") или console.log("…") — но в Java за видуемой «многословностью» стоит лаконичность и ясность для разработчика, с чем именно он работает.
 
-Пока не стоит погружаться в детали, со всем этим мы подробно разберемся позже. А пока предлагаю установить лучшую среду разработки для Java - JetBrains IDEA по [инструкции](https://javarush.com/quests/lectures/questsyntaxpro.level20.lecture01 (JavaRush)).
+Пока не стоит погружаться в детали, со всем этим мы подробно разберемся позже. А пока предлагаю установить лучшую среду разработки для Java - JetBrains IDEA по [инструкции](https://javarush.com/quests/lectures/questsyntaxpro.level20.lecture01).
 
 
 ## Резюме
