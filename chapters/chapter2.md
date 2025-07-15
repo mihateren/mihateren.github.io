@@ -222,6 +222,12 @@ System.out.println(name); // Вася Пупкин
 
 В сухом остатке: типы данных определяют объём памяти и набор допустимых операций, стек хранит примитивы и ссылки, куча — реальные объекты, а строковый пул экономит место, повторно используя одинаковые тексты.
 
+## Доп материалы
+1. Методы работы со строками: https://metanit.com/java/tutorial/7.2.php
+2. Переполнение типов: https://patrakhin.github.io/posts/overflow/
+3. Работа стека и кучи: https://topjava.ru/blog/stack—and—heap—in—java
+4. StringBuilder: https://metanit.com/java/tutorial/7.3.php
+5. Консольный ввод-вывод (без этого домашку не сделать): https://metanit.com/java/tutorial/2.9.php
 
 ## Домашнее задание
 ### Задача 1. Сумма двух чисел
